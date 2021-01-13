@@ -1,7 +1,7 @@
 # betablack
 Reference implementation for betablack
 
-Bonier, N. Picca H. (2020) Negative Prices: The beta-Black Formula, SSRN Pre-print.
+Bonier, N. Picca, H. (2020) Negative Prices: The beta-Black Formula, SSRN Pre-print.
 
 Instructions:
 Single dependencies to MathNet.Numerics
